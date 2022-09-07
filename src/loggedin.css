@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+login-button{
+    color: white;
+    background-color: rgba(239, 38, 34, 0.896);
+    padding:20px 60px 20px 60px;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.208) 0px 3px 1px 0px;
+    border-width: 0px;
+    margin-bottom: 70px;
+
+    
+}
+
+
+
+.e-mail{
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: rgba(255, 255, 255, 0.968) 2px 2px 2px 2px;
+    
+}
+
+.password{
+    padding: 10px;
+    margin:10px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: rgba(255, 255, 255, 0.968) 2px 2px 2px 2px;
+}
+
+
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.login-form{
+    margin-top: 5%;
+    text-align: center;
+     
+}
+
+/*
+
+.login-container{
+    background-color: rgba(0, 0, 0, 0.777);
+    height: 100vh;
+    margin: 0;
+}
+
+.login{
+    text-align: center;
+}
+
+.login-logo{
+    object-fit: contain;
+    max-width: 25%;
+}
+
+
+
+.brand-name{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+
+
+}   
+
+.slogan{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    
+}
+
+.login-button{
+    margin: 5%;
+    
+}
+
+.login-button{
+    color: white;
+    background-color: rgba(239, 38, 34, 0.896);
+    padding:20px 60px 20px 60px;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.208) 0px 3px 1px 0px;
+    border-width: 0px;
+    margin-bottom: 70px;
+
+    
+}
+
+.login-car{
+    margin-top: 5%;
+    object-fit: contain;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+
+.login-form{
+    margin-top: 5%;
+    text-align: center;
+     
+}
+
+.e-mail{
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: rgba(255, 255, 255, 0.968) 2px 2px 2px 2px;
+    
+}
+
+.password{
+    padding: 10px;
+    margin:10px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: rgba(255, 255, 255, 0.968) 2px 2px 2px 2px;
+}
+
+
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+*/
